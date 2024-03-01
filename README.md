@@ -11,6 +11,5 @@ The app facilitates task management, featuring fields such as task name, descrip
   - Priority
 - Comprehensive task management capabilities
   - Create new tasks
-  - Edit existing tasks
-  - Update task details
+  - Update existing tasks
   - View tasks
