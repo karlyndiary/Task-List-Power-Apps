@@ -13,6 +13,7 @@ The app facilitates task management, featuring fields such as task name, descrip
   - Priority
 - Icon Table
   - Icon [Related to the task]
+  
 - Comprehensive task management capabilities
   - Create new tasks
   - Update existing tasks
@@ -20,3 +21,6 @@ The app facilitates task management, featuring fields such as task name, descrip
   - Delete tasks
   - Search tasks
   - Refresh list
+
+Icon Table -> Task List Table
+One to Many
