@@ -1,20 +1,26 @@
 # Task List created using Power Apps
-
-### Overview
 The app facilitates task management, featuring fields such as task name, description, deadline, and priority. Users can seamlessly create, edit, update, and view tasks through the application interface.
 
+### Table of Contents
+* [Features](features)
+* [ER Diagram](er-diagram)
+
 ### Features
-- Task creation with essential fields:
-- Task List Table
+####Task creation with essential fields:
+**Task List Table**
   - Uid
   - Task name
   - Description
   - Deadline
   - Priority
-- Icon Table
-  - Icon [Related to the task]
+  - Icon
   
-- Comprehensive task management capabilities
+**Icon Table**
+  - Id
+  - Name
+  - Image Attachment
+  
+**Functionalities**
   - Create new tasks
   - Update existing tasks
   - View tasks
@@ -22,5 +28,5 @@ The app facilitates task management, featuring fields such as task name, descrip
   - Search tasks
   - Refresh list
 
-Icon Table -> Task List Table
-One to Many
+### ER Diagram
+
