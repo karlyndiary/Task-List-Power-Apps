@@ -6,6 +6,7 @@ The app facilitates task management, featuring fields such as task name, descrip
 ### Features
 - Task creation with essential fields:
 - Task List Table
+  - Uid
   - Task name
   - Description
   - Deadline
