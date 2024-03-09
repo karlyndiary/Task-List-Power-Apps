@@ -2,9 +2,9 @@
 The app facilitates task management, featuring fields such as task name, description, deadline, and priority, and selecting a custom icon from the dropdown to match their task. Users can seamlessly create, edit, update, search, view, and delete tasks through the application interface.
 
 ### Table of Contents
-* [Features](features)
-* [Data Model](data-model)
-* [Screens](screens)
+* [Features](#features)
+* [Data Model](#data-model)
+* [Screens](#screens)
 
 ### Features
 **Task List Table**
