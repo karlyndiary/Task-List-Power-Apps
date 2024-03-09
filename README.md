@@ -3,7 +3,7 @@ The app facilitates task management, featuring fields such as task name, descrip
 
 ### Table of Contents
 * [Features](features)
-* [ER Diagram](er-diagram)
+* [Data Model](data-model)
 
 ### Features
 **Task List Table**
@@ -27,6 +27,9 @@ The app facilitates task management, featuring fields such as task name, descrip
   - Search tasks
   - Refresh list
 
-### ER Diagram
+### Data Model
 ![TaskList drawio](https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/7c5db15a-d17d-459c-986c-edd455c97c45)
 
+### Screens
+![Group 10](https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/b813d618-02a3-42b5-8b4f-a845f0677b98)
+![Group 11](https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/1182bd12-0bae-40f4-bd1d-d8668f9e9720)
