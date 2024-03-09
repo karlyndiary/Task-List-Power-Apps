@@ -4,6 +4,7 @@ The app facilitates task management, featuring fields such as task name, descrip
 ### Table of Contents
 * [Features](features)
 * [Data Model](data-model)
+* [Screens](screens)
 
 ### Features
 **Task List Table**
@@ -12,7 +13,7 @@ The app facilitates task management, featuring fields such as task name, descrip
   - Description
   - Deadline
   - Priority
-  - Icon
+  - Icon 
   
 **Icon Table**
   - Id
@@ -31,5 +32,6 @@ The app facilitates task management, featuring fields such as task name, descrip
 ![TaskList drawio](https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/7c5db15a-d17d-459c-986c-edd455c97c45)
 
 ### Screens
-![Group 10](https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/b813d618-02a3-42b5-8b4f-a845f0677b98)
-![Group 11](https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/1182bd12-0bae-40f4-bd1d-d8668f9e9720)
+<img width="1343" alt="Group 10 (2)" src="https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/98963a06-2a30-4fd0-8b21-bd8d6340b25b">
+<img width="1343" alt="Group 11" src="https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/217956d2-1299-4210-9665-39e04d6415f6">
+
