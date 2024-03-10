@@ -13,7 +13,8 @@ The app facilitates task management, featuring fields such as task name, descrip
   - Description
   - Deadline
   - Priority
-  - Icon 
+  - Icon
+  - Status
   
 **Icon Table**
   - Id
@@ -29,7 +30,7 @@ The app facilitates task management, featuring fields such as task name, descrip
   - Refresh list
 
 ### Data Model
-![TaskList drawio](https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/7c5db15a-d17d-459c-986c-edd455c97c45)
+![TaskList drawio](https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/8d2d2d06-81e6-4a17-a2fe-39320ec3efcd)
 
 ### Screens
 <img width="1343" alt="Group 10 (2)" src="https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/98963a06-2a30-4fd0-8b21-bd8d6340b25b">
