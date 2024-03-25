@@ -5,6 +5,7 @@ The application offers a comprehensive platform for efficient task organization,
 * [Features](#features)
 * [Data Model](#data-model)
 * [Screens](#screens)
+* [Demo](#demo)
 
 ### Features
 **Task List Table**
@@ -35,4 +36,7 @@ The application offers a comprehensive platform for efficient task organization,
 ### Screens
 ![Group 18](https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/509afd72-4ea6-4598-a6cc-6f227b242e4b)
 ![Group 19](https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/2be4998d-a5d3-4c88-984b-a40b48ac9d7a)
+
+### Demo
+https://github.com/karlyndiary/Task-List-Power-Apps/assets/116041695/5c9e1557-cce1-4d2f-b9b0-a731603bd8e5
 
